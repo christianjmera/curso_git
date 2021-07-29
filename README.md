@@ -2,7 +2,7 @@
 ## Christian Zuñiga
 
 <img src="https://prep.soyhenry.com/00-PrimerosPasos/img/github_PNG15.png"
- width="300"
+ width="500"
  heigth="">
 
 ### Configure Git for the first time
