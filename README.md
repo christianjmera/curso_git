@@ -1,8 +1,8 @@
 # Curso GIT
 ## Christian Zuñiga
 
-<img src="https://prep.soyhenry.com/00-PrimerosPasos/img/github_PNG15.png"
- width="200"
+<img src=""
+ width="300"
  heigth="">
 
 ### Configure Git for the first time
