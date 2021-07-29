@@ -1,7 +1,7 @@
 # Curso GIT
 ## Christian Zuñiga
 
-<img src=""
+<img src="https://prep.soyhenry.com/00-PrimerosPasos/img/github_PNG15.png"
  width="300"
  heigth="">
 
